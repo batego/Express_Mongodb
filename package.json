@@ -1,0 +1,16 @@
+{
+  "name": "codigo_facilito_node",
+  "version": "1.0.0",
+  "description": "Node codigo facilito",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Boris Terraza",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.6.8",
+    "mongose": "0.0.2-security"
+  }
+}
